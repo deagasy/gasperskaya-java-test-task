@@ -31,7 +31,6 @@ public class Main {
 
         System.out.println("Произведение: " + a + " * " + b + " = " + (a * b));
 
-        float division;
         if (b != 0) {
             System.out.println("Частное: " + a + " / " + b + " = " + ((float) a / b));
         } else {
